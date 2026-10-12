@@ -1,0 +1,6 @@
+{
+  "name": "دليل التوجيه المجتمعي في السويد",
+  "description": "تطبيق تعليمي تفاعلي للتوجيه المجتمعي والقانوني للقادمين الجدد والعائلات في السويد مع مساعد ذكي ودعم متعدد اللغات ومصادر رسمية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
